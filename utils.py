@@ -1,4 +1,5 @@
 import math
+#code smell?
 def esprimo(n):
     if n<0:
         return "numeros negativos no son permitidos"
