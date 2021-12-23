@@ -8,7 +8,7 @@ def esprimo(n):
 
     if n==2:
         return True
-    if n % 2 == 0:
+    if n % 2 = 0:
         return False
 
     for i in range(2,int( math.sqrt(n))+1):
